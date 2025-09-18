@@ -20,7 +20,7 @@ This project is a **Login Page** built using **HTML, CSS, and JavaScript**. It i
 
 ---
 # preview
-Login page.png
+login page.png
 
 ## 📂 Project Structure
 
